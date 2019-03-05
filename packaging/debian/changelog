@@ -1,3 +1,10 @@
+solaar (0.9.999-1) UNRELEASED; urgency=medium
+
+  * Added basic support of some devices
+  * Fixed .po problems
+
+ -- Andras Tim <andras.tim@gmail.com>  Tue, 05 Mar 2019 17:12:18 +0100
+
 solaar (0.9.2-2) unstable; urgency=low
 
   * Fixes for lintian warnings.
